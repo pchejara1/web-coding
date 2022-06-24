@@ -1,0 +1,1 @@
+console.log("It's index.html ka javascript file.");
